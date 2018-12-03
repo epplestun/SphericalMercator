@@ -1,5 +1,3 @@
-package com.buntplanet.buntbrain.persistence.leakfinder.util;
-
 import org.apache.commons.lang.ArrayUtils;
 
 import java.util.HashMap;
